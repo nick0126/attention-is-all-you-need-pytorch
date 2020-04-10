@@ -2,7 +2,7 @@
 import torch
 import torch.nn as nn
 import numpy as np
-from Layers import EncoderLayer, DecoderLayer
+from transformer.Layers import EncoderLayer, DecoderLayer
 
 
 __author__ = "Yu-Hsiang Huang"
